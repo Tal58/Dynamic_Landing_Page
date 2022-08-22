@@ -4,7 +4,7 @@
 <br><br>
 🎯 Challenge is to build out landing page and get it looking as close to the professional design as possible..
 <br><br>
-🔗 To see live version 🎯
+🔗 To see live version 🎯https://tal58.github.io/Dynamic_Landing_Page/
 <br>
 <center> ⌛ Happy Coding  ✍ </center>
 <br><br>
